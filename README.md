@@ -1,4 +1,3 @@
-#ipl_data_analysis_project
 🔍 Project Title: IPL Data Analysis using PANDAS 🛠 Tools Used: PANDAS,Matplotlib IPL Dataset (from Kaggle or similar)
 
 📊 IPL Data Analysis using Python(Pandas,numpy,matplotlib,seaborn) 
